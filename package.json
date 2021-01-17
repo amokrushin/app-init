@@ -1,6 +1,6 @@
 {
   "name": "@amokrushin/app-init",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Graceful shutdown application services",
   "license": "MIT",
   "author": "Anton Mokrushin <anton@mokr.org>",
